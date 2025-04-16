@@ -70,7 +70,6 @@
 <body>
 
 <header>
-    <h1>E-jazz Pixels</h1>
     <nav>
     </nav>
 </header>
