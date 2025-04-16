@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!Book us now>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -72,6 +72,13 @@
 <header>
     <h1>E-jazz Pixels</h1>
     <nav>
+        
+        
+        
+        
+        
+        
+        
         <a href="#about">About Me</a>
         <a href="#services">Services</a>
         <a href="#portfolio">Portfolio</a>
