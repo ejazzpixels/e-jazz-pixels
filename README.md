@@ -1,4 +1,4 @@
-<Book us now>
+<!Book us now>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -76,14 +76,14 @@
 
 <section id="about">
     <h2>About Me</h2>
-    <p>All about photography 📸, graphics design, photo edits, and lots more.</p>
+    <p>A passionate photographer wanting to cease opportunities 📸,A graphic designer, photo editor, and lots more.</p>
 </section>
 
 <section id="services" class="services">
     <h2>Services</h2>
     <div class="service">
         <h3>Photography</h3>
-        <p>Professional photography sessions for events, portraits, and more.</p>
+        <p>Professional photography sessions for events, portraits, brochures, nature works, premium shots and more.</p>
     </div>
     <div class="service">
         <h3>Graphic Design</h3>
@@ -97,13 +97,13 @@
 
 <section id="portfolio">
     <h2>Portfolio</h2>
-    <p>Photographer, graphic designer, CEO of e-jazz pixels, ready to shoot 📸📸. Book for a session with us!</p>
+    <p>Photographer, graphic designer, CEO @ e-jazz pixels, ready to shoot 📸📸. Book for a session with us!</p>
 </section>
 
 <section id="testimonials" class="testimonials">
     <h2>Testimonials</h2>
     <div class="testimonial">
-        <p>"Eleazar's work is exceptional! Highly recommend for any photography needs!"</p>
+        <p>"Eleazar's work is exceptional! Highly recommended for any photography needs!"</p>
         <cite>- Satisfied Client</cite>
     </div>
     <div class="testimonial">
@@ -116,7 +116,7 @@
     <h2>Contact</h2>
     <ul class="contact-info">
         <li>Email: <a href="mailto:eleazarsamuel06@gmail.com">eleazarsamuel06@gmail.com</a></li>
-        <li>Phone: 08101363428 or 07083243389</li>
+        <li>Phone/Whatsapp: 08101363428 or 07083243389</li>
         <li>Facebook: <a href="https://facebook.com/EleazarSamuelEli">Eleazar Samuel Eli</a></li>
         <li>Instagram: <a href="https://instagram.com/ejazzpixels">ejazzpixels</a></li>
     </ul>
